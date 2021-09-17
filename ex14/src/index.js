@@ -1,10 +1,10 @@
 function main(){
     // Only change code below this line
-   var myNoun = "Dog";
+   var myNoun = "dog";
    var myVerb = "ran";
    var myAdjective = "big";
    var myAdverb = "quickly";
-   var wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
+   var wordBlanks = "My" + " " + myAdjective + " " + myNoun + " " + myVerb +  " " + myAdverb + ".";
    
    // Only change code above this line
      
